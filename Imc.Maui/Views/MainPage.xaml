@@ -31,7 +31,7 @@
             HorizontalOptions="Center">
             <Button
                 Text="Calcular"
-                BackgroundColor="Green"
+                BackgroundColor="HotPink"
                 Command="{Binding Path=CalcularCommand}"/>
             <Button
                 Text="Limpiar"
